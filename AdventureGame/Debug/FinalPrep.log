@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FinalPrep.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AdventureGame2.cpp
+  Player.cpp
+  RoomOrArea.cpp
+c:\users\covem\desktop\clarion classes\cis 244\adventure\adventure\adventuregame\roomorarea.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FinalPrep.vcxproj -> C:\Users\CoveM\Desktop\Clarion Classes\CIS 244\Adventure\Adventure\Debug\Adventure.exe
